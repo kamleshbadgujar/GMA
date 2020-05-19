@@ -5,3 +5,5 @@ Gym Management Application using following Tech Stack:
 2. Hibernate/JPA
 3. MySQL Database
 4. Angulat frontend
+
+This project runs on JDK-11. 
