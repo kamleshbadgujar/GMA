@@ -1,0 +1,20 @@
+{
+			"adminId" : 1,
+			"emailId" : {
+				"email" : 10,
+				"password": "asd",
+				"actionCode": "ADM"
+				},
+			"personalDetails" : {
+				"firstName" : "Sanket",
+				"lastName": "chaudhari",
+				"Gender": "M",
+				"contactNumber": "12356",
+				"address" : {
+					"addressLine1": "qwe",
+					"addressLine2": "xyz",
+					"city": "Nashik",
+					"State": "Maha"
+					}
+				}
+			}
